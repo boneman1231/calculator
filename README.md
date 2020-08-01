@@ -1,5 +1,9 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/timam90/calculator/_apis/build/status/boneman1231.calculator?branchName=master)](https://dev.azure.com/timam90/calculator/_build/latest?definitionId=3&branchName=master)
+
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
